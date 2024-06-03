@@ -12,7 +12,7 @@ Com o roteiro já em mãos, foi solicitado à própria ferramenta que criasse as
 
 ## 🚀 Resultados
 
-- [Menor da sombra](/final.pdf)
+- [Menor da sombra](/Final.pdf)
 
 ## 💭 Reflexão (Opcional)
 Com o advento das IA's, a sensação é que os artistas irão desaparecer, visto que a ferramenta é capaz de realizar o trabalho de forma completa. Mas a verdade, é que a própria palavra "ferramenta" já indica a função da tecnologia. Particularmente, penso que muitos outros artistas irão surgir em função da IA, pois se souberem manusear a ferramenta de maneira correta serão capazes de criar obras incríveis. Isso abre um espaço enorme para pessoas que não tem uma base técnica em ilustrações, por exemplo, tirarem de suas mentes uma ideia e concretizar no formato de Arte. 
