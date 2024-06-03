@@ -11,7 +11,7 @@ Primeiramente, foi solicitado ao Copilot a criação de um roteiro de história 
 Com o roteiro já em mãos, foi solicitado à própria ferramenta que criasse as ilustrações para cada cena. Apesar de surpreendente, nem sempre a ferramente gerava uma imagem satisfatória, assim, foi necessário realizar diversas alterações nos prompts de criação das imagens.
 
 ## 🚀 Resultados
-LINK
+/final.pdf
 
 ## 💭 Reflexão (Opcional)
 Com o advento das IA's, a sensação é que os artistas irão desaparecer, visto que a ferramenta é capaz de realizar o trabalho de forma completa. Mas a verdade, é que a própria palavra "ferramenta" já indica a função da tecnologia. Particularmente, penso que muitos outros artistas irão surgir em função da IA, pois se souberem manusear a ferramenta de maneira correta serão capazes de criar obras incríveis. Isso abre um espaço enorme para pessoas que não tem uma base técnica em ilustrações, por exemplo, tirarem de suas mentes uma ideia e concretizar no formato de Arte. 
