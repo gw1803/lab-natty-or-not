@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Menor da Sombra
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto envolve a criação de uma história em quadrinhos de super herói que se passa no Brasil mostrando a visão de um protagonista negro, morador de uma favela no Rio de Janeiro, chamado Marcos. O enredo mostra a insatisfação de Marcos com a violência diária enfrentada no lugar em que vive. Em certo ponto ele recebe o poder de controlar as sombras em um evento super estranho, e ele estreia seus poderes salvando a vida de uma criança. A história termina com a surpresa de Marcos ao descobrir seu poder, e com seu desespero de saber o que o futuro o aguarda. A proposta principal do projeto é de IA's generativas para a criação tanto das ilustrações, quanto do próprio roteiro. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente, foi solicitado ao Copilot a criação de um roteiro de história em quadrinhos de super herói que envolvesse um protagonista negro no contexto de favela que recebesse super poderes.
+Com o roteiro já em mãos, foi solicitado à própria ferramenta que criasse as ilustrações para cada cena. Apesar de surpreendente, nem sempre a ferramente gerava uma imagem satisfatória, assim, foi necessário realizar diversas alterações nos prompts de criação das imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+LINK
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Com o advento das IA's, a sensação é que os artistas irão desaparecer, visto que a ferramenta é capaz de realizar o trabalho de forma completa. Mas a verdade, é que a própria palavra "ferramenta" já indica a função da tecnologia. Particularmente, penso que muitos outros artistas irão surgir em função da IA, pois se souberem manusear a ferramenta de maneira correta serão capazes de criar obras incríveis. Isso abre um espaço enorme para pessoas que não tem uma base técnica em ilustrações, por exemplo, tirarem de suas mentes uma ideia e concretizar no formato de Arte. 
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
